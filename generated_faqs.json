@@ -1,0 +1,192 @@
+{"question": "How long does shipping take?", "answer": "Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days."}
+{"question": "Do you offer free shipping?", "answer": "Yes, we offer free shipping on orders over $50."}
+{"question": "Can I change my shipping address?", "answer": "You can change your shipping address before the order is shipped by contacting customer support."}
+{"question": "Do you ship internationally?", "answer": "Yes, we ship to over 50 countries worldwide. International shipping takes 10-15 business days."}
+{"question": "How do I track my shipment?", "answer": "Once your order is shipped, you will receive a tracking number via email to track your shipment."}
+{"question": "What happens if my package is lost?", "answer": "If your package is lost, please contact our customer support team and we will investigate and reship or refund your order."}
+{"question": "Can I schedule a delivery time?", "answer": "Currently we do not offer scheduled delivery times, but we are working on adding this feature."}
+{"question": "Do you deliver on weekends?", "answer": "Yes, we deliver on Saturdays. Sunday deliveries are not available at this time."}
+{"question": "What courier do you use?", "answer": "We use FedEx, UPS, and USPS depending on your location and the size of your order."}
+{"question": "Can I pick up my order in store?", "answer": "Yes, in-store pickup is available at select locations. Choose the pickup option at checkout."}
+{"question": "How do I return a damaged item?", "answer": "If you received a damaged item, please take photos and contact customer support within 48 hours for a free return and replacement."}
+{"question": "What is your refund policy?", "answer": "Refunds are processed within 5-7 business days after we receive the returned item."}
+{"question": "Can I exchange an item instead of returning it?", "answer": "Yes, you can exchange items within 30 days of purchase. Contact customer support to initiate an exchange."}
+{"question": "How long do I have to return an item?", "answer": "You have 30 days from the date of delivery to return an item."}
+{"question": "Do I have to pay for return shipping?", "answer": "Return shipping is free for defective or incorrect items. For other returns, a shipping fee may apply."}
+{"question": "How will I receive my refund?", "answer": "Refunds are issued to the original payment method used during purchase."}
+{"question": "Can I return a sale item?", "answer": "Sale items can be returned for store credit only, not cash refunds."}
+{"question": "What items cannot be returned?", "answer": "Perishable goods, digital downloads, and personalized items cannot be returned."}
+{"question": "How do I initiate a return?", "answer": "Log into your account, go to Order History, select the item, and click Return Item to start the process."}
+{"question": "Can I return an item without a receipt?", "answer": "Yes, if you have your order number we can process the return without a physical receipt."}
+{"question": "Do you accept PayPal?", "answer": "Yes, we accept PayPal as a payment method at checkout."}
+{"question": "Can I pay with cryptocurrency?", "answer": "Currently we do not accept cryptocurrency payments."}
+{"question": "Is my payment information secure?", "answer": "Yes, all payment information is encrypted using SSL technology and we never store your card details."}
+{"question": "Can I pay in installments?", "answer": "Yes, we offer installment payment options through Klarna and Afterpay at checkout."}
+{"question": "Why was my payment declined?", "answer": "Your payment may have been declined due to insufficient funds, incorrect card details, or bank restrictions. Please try another card or contact your bank."}
+{"question": "Can I use multiple payment methods?", "answer": "Currently you can only use one payment method per order."}
+{"question": "Do you accept gift cards?", "answer": "Yes, we accept our store gift cards as payment. Enter the gift card code at checkout."}
+{"question": "Can I get an invoice for my order?", "answer": "Yes, invoices are automatically sent to your email after purchase. You can also download them from your account."}
+{"question": "Do you charge sales tax?", "answer": "Sales tax is charged based on your shipping address and local tax laws."}
+{"question": "Can I save my payment details for future purchases?", "answer": "Yes, you can securely save your payment details in your account settings for faster checkout."}
+{"question": "How do I delete my account?", "answer": "To delete your account, go to Account Settings and click Delete Account, or contact customer support."}
+{"question": "How do I change my password?", "answer": "Go to Account Settings, click Change Password, enter your current password and then your new password."}
+{"question": "I forgot my username, what should I do?", "answer": "Your username is typically your email address. Try logging in with your email or use the Forgot Username link."}
+{"question": "Can I have multiple accounts?", "answer": "We allow only one account per person. Multiple accounts may be merged or suspended."}
+{"question": "How do I update my email address?", "answer": "Go to Account Settings and update your email address. A verification email will be sent to confirm the change."}
+{"question": "How do I update my phone number?", "answer": "Log into your account, go to Profile Settings, and update your phone number there."}
+{"question": "Can I link my social media account?", "answer": "Yes, you can link your Google or Facebook account for easier login in Account Settings."}
+{"question": "What do I do if my account is hacked?", "answer": "Immediately change your password and contact customer support. We will help secure your account."}
+{"question": "How do I turn off email notifications?", "answer": "Go to Account Settings, then Notification Preferences, and turn off the notifications you do not want."}
+{"question": "Can I have a business account?", "answer": "Yes, we offer business accounts with bulk pricing and invoicing. Contact our business team for more details."}
+{"question": "How do I apply a discount code?", "answer": "Enter your discount code in the promo code field at checkout and click Apply to get your discount."}
+{"question": "Why is my coupon not working?", "answer": "Your coupon may be expired, already used, or not applicable to the items in your cart. Check the terms and conditions of the coupon."}
+{"question": "Can I use multiple coupons at once?", "answer": "Only one coupon code can be used per order unless otherwise stated."}
+{"question": "How do I get a discount coupon?", "answer": "Subscribe to our newsletter or follow us on social media to receive exclusive discount codes."}
+{"question": "Do you offer student discounts?", "answer": "Yes, we offer a 10% student discount. Verify your student status through our student verification portal."}
+{"question": "Do you have a loyalty rewards program?", "answer": "Yes, our rewards program lets you earn points on every purchase which can be redeemed for discounts."}
+{"question": "How do I redeem my reward points?", "answer": "At checkout, you will see an option to redeem your reward points. Select how many points you want to apply."}
+{"question": "When do my reward points expire?", "answer": "Reward points expire after 12 months of account inactivity."}
+{"question": "Do you offer birthday discounts?", "answer": "Yes, we send a special birthday discount to registered members. Make sure your birthday is saved in your profile."}
+{"question": "Can I transfer my reward points to someone else?", "answer": "Reward points are non-transferable and can only be used by the account holder."}
+{"question": "What warranty do your products come with?", "answer": "Most products come with a 1-year manufacturer warranty. Check the product page for specific warranty details."}
+{"question": "How do I make a warranty claim?", "answer": "Contact customer support with your order number and a description of the issue to initiate a warranty claim."}
+{"question": "Does the warranty cover accidental damage?", "answer": "Standard warranties do not cover accidental damage. You may purchase an extended protection plan for additional coverage."}
+{"question": "Can I extend my product warranty?", "answer": "Yes, extended warranty plans are available for purchase on the product page or at checkout."}
+{"question": "What does the warranty not cover?", "answer": "Warranties do not cover damage caused by misuse, unauthorized repairs, or normal wear and tear."}
+{"question": "How long does a warranty claim take?", "answer": "Warranty claims are typically processed within 7-10 business days."}
+{"question": "Do you offer a satisfaction guarantee?", "answer": "Yes, we offer a 30-day satisfaction guarantee. If you are not happy with your purchase, we will make it right."}
+{"question": "What happens if my product stops working?", "answer": "Contact customer support immediately. If the product is under warranty, we will repair or replace it at no cost."}
+{"question": "Is the warranty valid internationally?", "answer": "Warranty coverage may vary by country. Contact customer support to check if your warranty is valid in your region."}
+{"question": "Who do I contact for warranty support?", "answer": "Contact our customer support team via email or live chat for all warranty related inquiries."}
+{"question": "How do I contact customer support?", "answer": "You can contact customer support via live chat, email, or phone. Our support team is available 24/7."}
+{"question": "What are your customer support hours?", "answer": "Our customer support team is available 24 hours a day, 7 days a week."}
+{"question": "How long does it take to get a response from support?", "answer": "Email responses are typically sent within 24 hours. Live chat responses are immediate."}
+{"question": "Do you have a phone number I can call?", "answer": "Yes, you can reach our customer support team by phone at our toll-free number listed on the Contact Us page."}
+{"question": "Can I chat with a real person?", "answer": "Yes, our live chat connects you with a real customer support agent, not a bot."}
+{"question": "How do I file a complaint?", "answer": "You can file a complaint by contacting customer support or filling out the feedback form on our website."}
+{"question": "Do you have a help center?", "answer": "Yes, our help center at help.ourstore.com contains articles and guides to answer common questions."}
+{"question": "Can I get support in my language?", "answer": "We offer support in English, Spanish, French, and German. More languages are being added."}
+{"question": "How do I give feedback about my experience?", "answer": "You can leave feedback through the post-purchase survey sent to your email or on our website feedback form."}
+{"question": "What do I do if I have not received a response from support?", "answer": "If you have not received a response within 24 hours, please follow up by replying to your support ticket or contacting us again."}
+{"question": "Is the product in stock?", "answer": "Product availability is shown on the product page. If it shows In Stock, it is available for purchase."}
+{"question": "Can I be notified when a product is back in stock?", "answer": "Yes, click the Notify Me button on the product page and we will email you when it is back in stock."}
+{"question": "How accurate are product images?", "answer": "We strive to display product images as accurately as possible, but colors may vary slightly due to screen settings."}
+{"question": "Are product reviews verified?", "answer": "Yes, all product reviews on our website are from verified purchasers only."}
+{"question": "Can I purchase a product in bulk?", "answer": "Yes, we offer bulk purchasing options. Contact our business team for bulk pricing."}
+{"question": "Do products come with instructions?", "answer": "Most products include an instruction manual. You can also find digital manuals on the product page."}
+{"question": "Can I request a product that is not listed?", "answer": "You can submit a product request through our website and we will consider adding it to our catalog."}
+{"question": "Are your products eco-friendly?", "answer": "We are committed to sustainability and offer a growing range of eco-friendly products. Look for the green label on product pages."}
+{"question": "Do you sell refurbished products?", "answer": "Yes, we sell certified refurbished products that are tested and come with a 90-day warranty."}
+{"question": "Can I see a product before buying?", "answer": "We offer detailed product descriptions, images, and videos to help you make an informed decision before purchasing."}
+{"question": "How do I place an order?", "answer": "Browse our catalog, add items to your cart, and proceed to checkout to complete your order."}
+{"question": "Can I modify my order after placing it?", "answer": "Orders can be modified within 1 hour of placement. Contact customer support immediately to make changes."}
+{"question": "What happens if an item in my order is out of stock?", "answer": "If an item becomes out of stock after your order, we will notify you and offer a refund or alternative product."}
+{"question": "Can I add items to an existing order?", "answer": "Unfortunately, items cannot be added to an existing order. You would need to place a new order."}
+{"question": "How do I know my order was confirmed?", "answer": "You will receive an order confirmation email with your order details shortly after placing your order."}
+{"question": "Can I reorder a previous purchase?", "answer": "Yes, go to your Order History and click Reorder to quickly place the same order again."}
+{"question": "What do I do if I received the wrong item?", "answer": "Contact customer support immediately with your order number and a photo of the wrong item. We will send the correct item."}
+{"question": "Can I gift wrap my order?", "answer": "Yes, we offer gift wrapping for a small additional fee. Select the gift wrap option at checkout."}
+{"question": "Can I include a gift message with my order?", "answer": "Yes, you can add a personalized gift message during checkout at no extra cost."}
+{"question": "How do I check my order status?", "answer": "Log into your account and go to Order History to check the current status of your orders."}
+{"question": "Do you price match?", "answer": "Yes, we offer price matching for identical products sold by authorized retailers. Contact customer support with proof of the lower price."}
+{"question": "How do I know if a sale is happening?", "answer": "Subscribe to our newsletter or check our website homepage for the latest sales and promotions."}
+{"question": "Can I get a price adjustment if an item goes on sale after I buy it?", "answer": "Yes, we offer price adjustments within 7 days of purchase if the item goes on sale."}
+{"question": "Do you offer flash sales?", "answer": "Yes, we run flash sales regularly. Sign up for our newsletter to get notified of upcoming flash sales."}
+{"question": "How long do sales last?", "answer": "Sale durations vary. Check the sale page for the end date and time of each promotion."}
+{"question": "Do you have a referral program?", "answer": "Yes, refer a friend and both of you will receive a discount on your next purchase."}
+{"question": "How does the referral program work?", "answer": "Share your unique referral link with friends. When they make their first purchase, you both earn a reward."}
+{"question": "Can I refer more than one person?", "answer": "Yes, there is no limit to how many people you can refer. You earn a reward for each successful referral."}
+{"question": "How do I find my referral link?", "answer": "Log into your account and go to the Referral Program section to find your unique referral link."}
+{"question": "When will I receive my referral reward?", "answer": "Your referral reward will be added to your account within 48 hours of your friend completing their first purchase."}
+{"question": "Do you have a mobile app?", "answer": "Yes, our mobile app is available on iOS and Android. Download it for exclusive app-only deals."}
+{"question": "Is the mobile app free?", "answer": "Yes, our mobile app is completely free to download and use."}
+{"question": "Can I track my order on the app?", "answer": "Yes, you can track your orders, manage returns, and contact support directly from our mobile app."}
+{"question": "Does the app save my payment information?", "answer": "Yes, you can securely save payment information in the app for faster checkout."}
+{"question": "How do I update the app?", "answer": "Go to the App Store or Google Play Store and check for available updates for our app."}
+{"question": "Do you have a physical store?", "answer": "Yes, we have physical store locations. Visit our Store Locator page to find the nearest store."}
+{"question": "What are your store hours?", "answer": "Store hours vary by location. Visit our Store Locator page for the hours of your nearest store."}
+{"question": "Can I return online purchases in store?", "answer": "Yes, you can return online purchases at any of our physical store locations."}
+{"question": "Do you offer in-store exclusive products?", "answer": "Some products are available exclusively in-store. Visit us to explore our full in-store selection."}
+{"question": "Can I check in-store product availability online?", "answer": "Yes, use our Store Inventory Checker on the product page to see if an item is available at your local store."}
+{"question": "What is your privacy policy?", "answer": "We are committed to protecting your privacy. We do not sell your personal data to third parties. Read our full privacy policy on our website."}
+{"question": "How do you use my personal data?", "answer": "We use your personal data to process orders, improve our services, and send relevant communications with your consent."}
+{"question": "Can I request my personal data?", "answer": "Yes, you can request a copy of your personal data by contacting our privacy team at privacy@ourstore.com."}
+{"question": "How do I opt out of marketing emails?", "answer": "Click the Unsubscribe link at the bottom of any marketing email or update your preferences in Account Settings."}
+{"question": "Do you use cookies?", "answer": "Yes, we use cookies to improve your browsing experience. You can manage cookie preferences in your browser settings."}
+{"question": "Is my personal information shared with third parties?", "answer": "We only share your information with trusted partners necessary to fulfill your order, such as shipping carriers."}
+{"question": "How do I report a security vulnerability?", "answer": "If you discover a security vulnerability, please report it responsibly to security@ourstore.com."}
+{"question": "Is your website secure?", "answer": "Yes, our website uses HTTPS encryption to protect all data transmitted between your browser and our servers."}
+{"question": "Can I request deletion of my data?", "answer": "Yes, you can request deletion of your personal data by contacting our privacy team. Note this may deactivate your account."}
+{"question": "Do you comply with GDPR?", "answer": "Yes, we are fully compliant with GDPR and other applicable data protection regulations."}
+{"question": "How do I find the right size?", "answer": "Refer to our Size Guide on each product page for detailed measurements and sizing recommendations."}
+{"question": "What if the size I want is not available?", "answer": "If your size is out of stock, click Notify Me and we will alert you when it becomes available."}
+{"question": "Can I return an item if it does not fit?", "answer": "Yes, items that do not fit can be returned or exchanged within 30 days of purchase."}
+{"question": "Do your sizes run small or large?", "answer": "Sizing varies by brand. Check the product reviews and size guide for specific recommendations."}
+{"question": "Do you offer plus sizes?", "answer": "Yes, we offer an extended range of sizes including plus sizes. Use the size filter to find available options."}
+{"question": "How do I care for my purchased product?", "answer": "Care instructions are included on the product label and on the product page under the Care Instructions section."}
+{"question": "Are your products machine washable?", "answer": "Washing instructions vary by product. Check the care label or product page for specific washing instructions."}
+{"question": "Can I personalize or customize a product?", "answer": "Yes, select products can be personalized with custom text or designs. Look for the Customize option on the product page."}
+{"question": "How long does personalization take?", "answer": "Personalized orders take an additional 3-5 business days to process before shipping."}
+{"question": "Can I cancel a personalized order?", "answer": "Personalized orders cannot be cancelled once production has begun. Contact support immediately if you need to make changes."}
+{"question": "Do you offer gift wrapping for personalized items?", "answer": "Yes, gift wrapping is available for personalized items. Select this option at checkout."}
+{"question": "What file formats do you accept for custom designs?", "answer": "We accept PNG, JPEG, and PDF file formats for custom design uploads."}
+{"question": "Can I preview my customized product before ordering?", "answer": "Yes, our product customizer shows a preview of your personalized item before you add it to your cart."}
+{"question": "How do I subscribe to your newsletter?", "answer": "Enter your email in the newsletter signup box at the bottom of our homepage and click Subscribe."}
+{"question": "How do I unsubscribe from the newsletter?", "answer": "Click the Unsubscribe link at the bottom of any newsletter email to stop receiving them."}
+{"question": "What are the benefits of subscribing to the newsletter?", "answer": "Newsletter subscribers get exclusive discounts, early access to sales, and new product announcements."}
+{"question": "How often do you send newsletters?", "answer": "We send newsletters weekly. During sales seasons, we may send additional emails about special offers."}
+{"question": "Can I choose what types of emails I receive?", "answer": "Yes, go to your Account Settings and select your email preferences to choose what communications you receive."}
+{"question": "Do you have an affiliate program?", "answer": "Yes, our affiliate program lets you earn commissions by promoting our products. Apply on our Affiliate Program page."}
+{"question": "How much commission do affiliates earn?", "answer": "Affiliates earn between 5% and 15% commission depending on the product category and sales volume."}
+{"question": "How do I apply for the affiliate program?", "answer": "Visit our Affiliate Program page and fill out the application form. Applications are reviewed within 3 business days."}
+{"question": "When do affiliates get paid?", "answer": "Affiliate commissions are paid monthly via PayPal or bank transfer once the minimum payout threshold is reached."}
+{"question": "Can I promote your products on social media?", "answer": "Yes, as an affiliate you can promote our products on social media using your unique affiliate link."}
+{"question": "What payment methods do you not accept?", "answer": "We do not accept cash, checks, or wire transfers for online orders."}
+{"question": "Can I pay on delivery?", "answer": "Cash on delivery is available in select regions. Check if this option is available for your location at checkout."}
+{"question": "Do you offer corporate purchasing?", "answer": "Yes, we offer corporate purchasing solutions with dedicated account managers. Contact our corporate sales team."}
+{"question": "How do I get a bulk discount?", "answer": "Contact our sales team with details about the quantity you need and we will provide a custom bulk pricing quote."}
+{"question": "Can I get a sample before buying in bulk?", "answer": "Yes, sample orders are available for bulk buyers. Contact our sales team to request samples."}
+{"question": "What happens if I receive an incomplete order?", "answer": "If your order is incomplete, contact customer support with your order number and we will send the missing items."}
+{"question": "Can I combine multiple orders into one shipment?", "answer": "Orders placed separately cannot be combined into one shipment. Plan your purchases to place everything in a single order."}
+{"question": "Do you offer express delivery?", "answer": "Yes, express delivery is available at checkout for an additional fee. Delivery time is 1-2 business days."}
+{"question": "What is the cutoff time for same-day dispatch?", "answer": "Orders placed before 12 PM on business days are dispatched the same day."}
+{"question": "Do you offer subscription boxes?", "answer": "Yes, we offer monthly subscription boxes curated with our best products. Subscribe on our Subscription page."}
+{"question": "How do I cancel my subscription?", "answer": "You can cancel your subscription anytime from your Account Settings under the Subscriptions section."}
+{"question": "Can I pause my subscription?", "answer": "Yes, you can pause your subscription for up to 3 months from your Account Settings."}
+{"question": "When will my subscription box be delivered?", "answer": "Subscription boxes are shipped on the 1st of each month and typically arrive within 5-7 business days."}
+{"question": "Can I customize my subscription box?", "answer": "Yes, you can set product preferences for your subscription box in your account settings."}
+{"question": "Do you have a waiting list for popular products?", "answer": "Yes, you can join the waiting list for popular out-of-stock products by clicking Notify Me on the product page."}
+{"question": "How do I write a product review?", "answer": "After your purchase, you will receive an email inviting you to review your product. You can also review from your Order History."}
+{"question": "Can I edit my product review?", "answer": "Yes, you can edit your review within 30 days of submitting it by going to your Account and finding the review."}
+{"question": "Are there any restrictions on product reviews?", "answer": "Reviews must be honest, respectful, and related to the product. Offensive or fake reviews will be removed."}
+{"question": "Do you reward customers for leaving reviews?", "answer": "Yes, you earn reward points for each verified review you submit on our website."}
+{"question": "How do I report a fake review?", "answer": "Click the Report button next to the review to flag it. Our team will investigate and remove fake reviews."}
+{"question": "What should I do if my order is delayed?", "answer": "If your order is delayed beyond the estimated delivery date, contact customer support with your tracking number for an update."}
+{"question": "Can I get compensation for a delayed order?", "answer": "If your order is significantly delayed due to our error, we may offer a discount or store credit as compensation."}
+{"question": "What is your policy on counterfeit products?", "answer": "We guarantee all products sold on our platform are authentic. Report any suspected counterfeit products to customer support."}
+{"question": "Do you sell products from third-party sellers?", "answer": "Yes, some products are sold by third-party sellers on our marketplace. These are clearly labeled on the product page."}
+{"question": "How do I contact a third-party seller?", "answer": "You can message a third-party seller through our platform by going to the product page and clicking Contact Seller."}
+{"question": "Are third-party seller products covered by your return policy?", "answer": "Third-party seller returns are handled by the seller. Check the seller's return policy on their store page."}
+{"question": "How do I become a seller on your platform?", "answer": "Apply to become a seller by visiting our Sell With Us page and completing the application form."}
+{"question": "What are the fees for selling on your platform?", "answer": "Seller fees vary by category. Visit our Seller Center for detailed information on fees and commissions."}
+{"question": "How do I report a problem with a seller?", "answer": "Contact customer support or use the Report Seller button on their store page to report any issues."}
+{"question": "Do you verify sellers on your platform?", "answer": "Yes, all sellers go through a verification process before they can list products on our platform."}
+{"question": "What currencies do you accept?", "answer": "We accept USD, EUR, GBP, CAD, and AUD. More currencies are being added regularly."}
+{"question": "Can I change the currency displayed on the website?", "answer": "Yes, use the currency selector in the top right corner of the website to change your preferred currency."}
+{"question": "Are prices inclusive of taxes?", "answer": "Prices shown do not include taxes. Applicable taxes are calculated and shown at checkout."}
+{"question": "Do you offer duty-free shopping?", "answer": "Duty-free options may be available for international orders. Check the checkout page for applicable options."}
+{"question": "How are customs fees handled for international orders?", "answer": "Customs fees and import duties are the responsibility of the customer and vary by country."}
+{"question": "Can I donate to charity when making a purchase?", "answer": "Yes, at checkout you can choose to round up your total or add a donation to one of our partner charities."}
+{"question": "Do you have a carbon offset program?", "answer": "Yes, we partner with environmental organizations to offset the carbon footprint of every shipment."}
+{"question": "Are your packaging materials recyclable?", "answer": "Yes, we use recyclable and biodegradable packaging materials to minimize environmental impact."}
+{"question": "Do you have sustainable product options?", "answer": "Yes, filter products by the Eco-Friendly tag to find our range of sustainable and environmentally responsible products."}
+{"question": "How do I find out about new product launches?", "answer": "Follow us on social media and subscribe to our newsletter to be the first to know about new product launches."}
+{"question": "Can I pre-order upcoming products?", "answer": "Yes, pre-orders are available for select upcoming products. Visit the product page and click Pre-Order to reserve yours."}
+{"question": "When will my pre-order ship?", "answer": "Pre-order shipping dates are listed on the product page. You will be charged when the item ships."}
+{"question": "Can I cancel a pre-order?", "answer": "Yes, pre-orders can be cancelled any time before the item ships by contacting customer support."}
+{"question": "What happens if a pre-ordered product is discontinued?", "answer": "If a pre-ordered product is discontinued, you will be fully refunded and notified by email."}
+{"question": "Do you offer product bundles?", "answer": "Yes, we offer product bundles at a discounted price. Look for the Bundle Deal tag on product pages."}
+{"question": "Can I create my own product bundle?", "answer": "Yes, use our Build Your Own Bundle feature to select products and receive a bundle discount."}
+{"question": "Are bundle items returnable individually?", "answer": "Bundle items must be returned as a complete set unless individual items were defective."}
+{"question": "How do I find bundle deals?", "answer": "Visit our Deals page or filter by Bundle Deal in the product search to find all available bundle offers."}
+{"question": "Do bundle deals have an expiry date?", "answer": "Some bundle deals are time-limited. Check the deal page for the expiry date of each bundle offer."}
